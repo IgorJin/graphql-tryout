@@ -2,4 +2,4 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 Test Graphql.
 
-![alt text]https://ibb.co/Cbh529P
+![alt text](https://ibb.co/Cbh529P)
